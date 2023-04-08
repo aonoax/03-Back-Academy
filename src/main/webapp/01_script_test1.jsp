@@ -21,7 +21,6 @@
 		}
 	%>
 	
-	
 	<!-- Expression Tag -->
 	<!-- semicolon을 쓰면 안 됨 -->
 	<h3>My name is Might and Magic</h3>
